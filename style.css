@@ -131,7 +131,7 @@ nav .dropdown-menu .nav-link{color:rgba(0,0,0,0.6)!important;} /* Maintain Downd
 	padding:20px;
 }
 
-/* = Full Screen Blocs 
+/* = Full Screen Blocs
 -------------------------------------------------------------- */
 
 .bloc-fill-screen{
@@ -162,7 +162,7 @@ nav .dropdown-menu .nav-link{color:rgba(0,0,0,0.6)!important;} /* Maintain Downd
 	align-self: flex-end;
 }
 
-/* = Full Width Blocs 
+/* = Full Width Blocs
 -------------------------------------------------------------- */
 
 .full-width-bloc{
@@ -639,7 +639,7 @@ nav .dropdown-menu .nav-link{color:rgba(0,0,0,0.6)!important;} /* Maintain Downd
 .dropdown-menu .dropdown-menu{
 	border:none}
 @media (min-width:576px){
-	
+
 .navbar-expand-sm .dropdown-menu .dropdown-menu{
 	border:1px solid rgba(0,0,0,.15);
 	position:absolute;
@@ -1524,7 +1524,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-size:25px;
 	font-family:"SharpGroteskBook25-Regular";
 }
-.h2-join-vivateam-style{
+.h2-join-vivatech-team-style{
 	font-family:"SharpGroteskBook25-Regular";
 	width:100%;
 	font-size:25px;
@@ -1532,7 +1532,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h2-schools-asso-style{
 	font-size:25px;
 }
-.title-vivateam{
+.title-vivatech-team{
 	font-size:25px;
 	font-family:"SharpGroteskSmBold25-Regular";
 }
@@ -2061,55 +2061,55 @@ url("img/event_HackTheCrisis.webp") 2x);
 
 /* Swatch Variables */
 :root{
-	
+
 	--swatch-var-2019:rgba(255,255,255,0.30);
-	
+
 	--swatch-var-1792:rgba(255,255,255,1.00);
-	
+
 	--swatch-var-7887:rgba(0,0,0,1.00);
-	
+
 	--swatch-var-426:rgba(255,255,255,0.8);
-	
+
 	--swatch-var-5783:rgba(0,0,0,0.2);
-	
+
 	--swatch-var-7920:rgba(19,121,192,1.00);
-	
+
 	--swatch-var-7492:#EA9700;
-	
+
 	--swatch-var-441:#979797;
-	
+
 	--swatch-var-6521:rgba(255,255,255,0.498039);
-	
+
 	--swatch-var-3636:rgba(0,6,43,1.00);
-	
+
 	--swatch-var-3189:rgba(177,0,105,1.00);
-	
+
 	--swatch-var-3310:rgba(255,255,255,1.0);
-	
+
 	--swatch-var-1621:#E4E5E4;
-	
+
 	--swatch-var-7084:#111111;
-	
+
 	--swatch-var-6026:#F5F6F5;
-	
+
 	--swatch-var-3202:rgba(0,0,0,0.03);
-	
+
 	--swatch-var-2249:#C0C0C0;
-	
+
 	--swatch-var-5185:#121212;
-	
+
 	--swatch-var-7854:rgba(0,0,0,0.8);
-	
+
 	--swatch-var-7012:#7D04F2;
-	
+
 	--swatch-var-7096:rgba(152,9,255,1.00);
-	
+
 	--swatch-var-4593:rgba(255,255,255,0.5);
-	
+
 	--swatch-var-7442:rgba(255,255,255,0.298039);
-	
+
 	--swatch-var-1390:#012C5B;
-	
+
 }
 
 
@@ -2533,13 +2533,13 @@ url("img/Portfolio_015.webp") 2x);
 }
 
 
-/* = Mobile adjustments 
+/* = Mobile adjustments
 -------------------------------------------------------------- */
 @media (max-width: 1024px)
 {
     .bloc.full-width-bloc, .bloc-tile-2.full-width-bloc .container, .bloc-tile-3.full-width-bloc .container, .bloc-tile-4.full-width-bloc .container{
-        padding-left: 0; 
-        padding-right: 0;  
+        padding-left: 0;
+        padding-right: 0;
     }
 }
 @media (max-width: 991px)
@@ -2554,7 +2554,7 @@ url("img/Portfolio_015.webp") 2x);
         padding-left:0;padding-right:0;
     }
     .btn-dwn{
-       display:none; 
+       display:none;
     }
     .voffset{
         margin-top:5px;
@@ -2637,7 +2637,7 @@ url("img/Portfolio_015.webp") 2x);
 	.h1-style{
 		font-size:40px;
 	}
-	
+
 }
 
 @media (max-width: 767px){
@@ -2715,7 +2715,7 @@ url("img/Portfolio_015.webp") 2x);
 	.h2-join-style{
 		font-size:30px;
 	}
-	
+
 }
 
 @media (max-width: 575px){
@@ -2828,6 +2828,6 @@ url("img/Portfolio_015.webp") 2x);
 	.h1-style{
 		font-size:30px;
 	}
-	
+
 }
 
